@@ -50,3 +50,9 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+gem 'wicked'
+
+gem 'protected_attributes'
+
+gem 'bcrypt'
